@@ -19,8 +19,8 @@ body {
 
 /* Upper Warning Box Styling - matching outline as footer */
 .upper-warning {
-    border: 2px solid #FFA500; /* Same outline style as the footer */
-    color: #FFA500;
+    border: 2px solid #8a01c0; /* Same outline style as the footer */
+    color: #8a01c0;
     padding: 10px;
     margin-bottom: 20px;
     font-size: 1rem;
@@ -29,7 +29,7 @@ body {
 
 /* Title Styling */
 .title {
-    color: #FFA500; /* Orange */
+    color: #8a01c0; /* Orange */
     font-size: 2.5rem;
     margin-bottom: 20px;
 }
@@ -44,8 +44,8 @@ body {
 /* Button Styling */
 .link-btn {
     background-color: transparent;
-    border: 2px solid #FFA500;
-    color: #FFA500;
+    border: 2px solid #8a01c0;
+    color: #8a01c0;
     padding: 15px 30px;
     font-size: 1.2rem;
     border-radius: 50px;
@@ -55,7 +55,7 @@ body {
 }
 
 .link-btn:hover {
-    background-color: #FFA500;
+    background-color: #8a01c0;
     color: #333333;
 }
 
@@ -63,8 +63,8 @@ body {
 .footer {
     margin-top: 20px;
     font-size: 1rem;
-    color: #FFA500;
-    border: 2px solid #FFA500;
+    color: #8a01c0;
+    border: 2px solid #8a01c0;
     padding: 10px;
     border-radius: 10px;
 }
