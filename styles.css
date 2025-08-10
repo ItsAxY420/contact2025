@@ -1,0 +1,70 @@
+/* General Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #333333;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Main Container */
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+/* Upper Warning Box Styling - matching outline as footer */
+.upper-warning {
+    border: 2px solid #FFA500; /* Same outline style as the footer */
+    color: #FFA500;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 1rem;
+    border-radius: 10px;
+}
+
+/* Title Styling */
+.title {
+    color: #FFA500; /* Orange */
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+/* Button Container */
+.button-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Button Styling */
+.link-btn {
+    background-color: transparent;
+    border: 2px solid #FFA500;
+    color: #FFA500;
+    padding: 15px 30px;
+    font-size: 1.2rem;
+    border-radius: 50px;
+    margin: 10px 0;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.link-btn:hover {
+    background-color: #FFA500;
+    color: #333333;
+}
+
+/* Footer Styling */
+.footer {
+    margin-top: 20px;
+    font-size: 1rem;
+    color: #FFA500;
+    border: 2px solid #FFA500;
+    padding: 10px;
+    border-radius: 10px;
+}
